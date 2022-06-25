@@ -1,0 +1,17 @@
+The ``add_integer`` module
+======================
+
+Using ``add_integer``
+-------------------
+
+This is an example text file in reStructuredText format.  First import
+``add_integer`` from the ``0-add_integer`` module:
+    >>> import sys
+    >>> sys.path.insert(0, '/home/vagrant/alx-higher_level_programming/0x07-python-test_driven_development/')
+    >>> from '0-add_integer' import add_integer
+
+Now use it:
+
+    >>> add_integer(6, 3)
+
+    
